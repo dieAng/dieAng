@@ -3,5 +3,5 @@
 - 🌱 Actualmente estoy estudiando: Desarrollo de Aplicaciones Multiplataforma
 - 📋 Ayúdame a crear algo nuevo -> [Formulario Funcionalidad App](https://docs.google.com/forms/d/e/1FAIpQLSejCHPZh8vNfbHEaCY8Wugobpa9yLk4qOlBsUfJHSJ_9R4gVw/viewform?usp=dialog)
 - 📫 Datos de contacto: <pre>
-LinkedIn -> [Diego Anguiano Fernandez](https://www.linkedin.com/in/diego-anguiano-fernandez)
+LinkedIn -> ![Website](https://www.linkedin.com/in/diego-anguiano-fernandez)
 Email -> dieganfer.dev@gmail.com</pre>
