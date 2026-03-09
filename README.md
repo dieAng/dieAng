@@ -5,22 +5,21 @@
 - 📫 Datos de contacto: <pre>
 LinkedIn -> [Diego Anguiano Fernandez](https://www.linkedin.com/in/diego-anguiano-fernandez)
 Email -> dieganfer.dev@gmail.com</pre>
-<!--
+
 # ¡Hola! Soy @dieAng (Diego Anguiano) 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Desarrollador+[Frontend/Backend/Fullstack];Entusiasta+del+Código+Abierto;Siempre+aprendiendo...)](https://git.io/typing-svg)
 
-Soy un/a **Estudiante de Informática**, apasionado/a por crear soluciones eficientes y escalables. Me encanta aprender nuevas tecnologías y compartir conocimiento con la comunidad.
+Soy un **Estudiante de Informática**, apasionado por crear soluciones eficientes y escalables. Me encanta aprender nuevas tecnologías y compartir conocimiento con la comunidad.
 
 ---
 
 ### 🚀 Sobre Mí
 
-* 🔭 Actualmente trabajando en: **[Nombre de tu proyecto o empresa]**
-* 🌱 Actualmente aprendiendo: **[Tecnologías que estás estudiando, ej: Rust, Docker, IA]**
-* 👯 Buscando colaborar en: **[Proyectos Open Source, ideas de negocio, etc.]**
-* 💬 Pregúntame sobre: **[Tus áreas de experiencia, ej: React, Python, Bases de datos]**
-* 📫 Cómo contactarme: **[Tu email o enlace a LinkedIn]**
+* 🔭 Actualmente trabajando en: **Atmira**, como proceso de prácticas de **DAM**
+* 🌱 Actualmente aprendiendo: **SpringBoot, .NET, Android Studio**
+* 💬 Pregúntame sobre: **Java o Android Studio**
+* 📫 Cómo contactarme: **dieganfer.dev@gmail.com** o ****
 * ⚡ Dato curioso: **[Algo divertido sobre ti, ej: Bebo demasiado café mientras programo]**
 
 ---
@@ -56,14 +55,14 @@ Aquí tienes un resumen de mi "stack" tecnológico:
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUI]&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUI]&layout=compact&langs_count=7&theme=radium"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dieAng&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieAng&layout=compact&langs_count=7&theme=radium"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO_AQUI]&theme=radium" alt="Racha de commits en GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dieAng&theme=radium" alt="Racha de commits en GitHub" />
 </div>
 
 ---
@@ -81,18 +80,11 @@ Aquí tienes un resumen de mi "stack" tecnológico:
 ### 🌐 Conecta conmigo
 
 <div align="left">
-  <a href="https://linkedin.com/in/[tu-usuario]" target="_blank">
+  <a href="https://linkedin.com/in/diego-anguiano-fernandez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/[tu-usuario]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://[tu-portafolio.com]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Firefox+Browser&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 <br>
 
-> *"El buen código es su propia mejor documentación."* - Steve McConnell
--->
+> *"Si funciona, no lo toques."*
