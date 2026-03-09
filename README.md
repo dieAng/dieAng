@@ -8,7 +8,7 @@ Email -> dieganfer.dev@gmail.com</pre>
 
 # ¡Hola! Soy @dieAng (Diego Anguiano) 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Desarrollador+[Frontend/Backend/Fullstack];Entusiasta+del+Código+Abierto;Siempre+aprendiendo...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Desarrollador+[Backend];Entusiasta+del+Código+Abierto;Siempre+aprendiendo...)](https://git.io/typing-svg)
 
 Soy un **Estudiante de Informática**, apasionado por crear soluciones eficientes y escalables. Me encanta aprender nuevas tecnologías y compartir conocimiento con la comunidad.
 
