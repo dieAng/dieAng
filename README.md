@@ -5,7 +5,7 @@
 - 📫 Datos de contacto: <pre>
 LinkedIn -> [Diego Anguiano Fernandez](https://www.linkedin.com/in/diego-anguiano-fernandez)
 Email -> dieganfer.dev@gmail.com</pre>
-
+<!--
 # ¡Hola! Soy @dieAng (Diego Anguiano) 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Desarrollador+Backend;Entusiasta+del+Código+Abierto;Siempre+aprendiendo...)](https://git.io/typing-svg)
