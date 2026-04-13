@@ -62,9 +62,9 @@ Aquí tienes un resumen de mi "stack" tecnológico:
 
 | Proyecto | Descripción | Enlace |
 | :--- | :--- | :--- |
-| **[EnerGym]** | Planificador de rutinas de entrenamiento de fuerza y gimnasio y planificación de alimentación. App cliente Android. | [Ver Repositorio](https://github.com/dieAng/EnerGym) |
-| **[EnerGymAPI]** | Planificador de rutinas de entrenamiento de fuerza y gimnasio y planificación de alimentación. API ASP.NET. | [Ver Repositorio](https://github.com/dieAng/EnerGym) |
-| **[Certificados]** | Repositorio personal donde almaceno y organizo mis certificados digitales obtenidos en cursos, talleres y programas de formación. | [Ver Repositorio](https://github.com/dieAng/Certificados) |
+| **EnerGym** | Planificador de rutinas de entrenamiento de fuerza y gimnasio y planificación de alimentación. App cliente Android. | [Ver Repositorio](https://github.com/dieAng/EnerGym) |
+| **EnerGymAPI** | Planificador de rutinas de entrenamiento de fuerza y gimnasio y planificación de alimentación. API ASP.NET. | [Ver Repositorio](https://github.com/dieAng/EnerGym) |
+| **Certificados** | Repositorio personal donde almaceno y organizo mis certificados digitales obtenidos en cursos, talleres y programas de formación. | [Ver Repositorio](https://github.com/dieAng/Certificados) |
 
 ---
 
