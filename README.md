@@ -1,12 +1,3 @@
-- 👋 Hola, Soy @dieAng (Diego Anguiano)
-<!-- - 👀 I’m interested in ... -->
-<!--- 💞️ I’m looking to collaborate on ...-->
-- 🌱 Actualmente estoy estudiando: Desarrollo de Aplicaciones Multiplataforma
-- 📋 Ayúdame a crear algo nuevo -> [Formulario Funcionalidad App](https://docs.google.com/forms/d/e/1FAIpQLSejCHPZh8vNfbHEaCY8Wugobpa9yLk4qOlBsUfJHSJ_9R4gVw/viewform?usp=dialog)
-- 📫 Datos de contacto: <pre>
-LinkedIn -> [Diego Anguiano Fernandez](https://www.linkedin.com/in/diego-anguiano-fernandez)
-Email -> dieganfer.dev@gmail.com</pre>
-
 # ¡Hola! Soy @dieAng (Diego Anguiano) 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Desarrollador+Backend;Entusiasta+del+Código+Abierto;Siempre+aprendiendo...)](https://git.io/typing-svg)
@@ -22,6 +13,8 @@ Soy un **Estudiante de Informática**, apasionado por crear soluciones eficiente
 * 💬 Pregúntame sobre: **Java o Android Studio**
 * 📫 Cómo contactarme: **dieganfer.dev@gmail.com**
 * ⚡ Dato curioso: **[Algo divertido sobre ti, ej: Bebo demasiado café mientras programo]**
+
+* 📋 Ayúdame a crear algo nuevo -> [Formulario Funcionalidad App](https://docs.google.com/forms/d/e/1FAIpQLSejCHPZh8vNfbHEaCY8Wugobpa9yLk4qOlBsUfJHSJ_9R4gVw/viewform?usp=dialog)
 
 ---
 
