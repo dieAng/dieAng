@@ -23,9 +23,8 @@ Soy un **Estudiante de Informática**, apasionado por crear soluciones eficiente
 Aquí tienes un resumen de mi "stack" tecnológico:
 
 **Lenguajes:**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java]([https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
+![.NET]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white))
 
 **Frontend:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -33,16 +32,14 @@ Aquí tienes un resumen de mi "stack" tecnológico:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend & Bases de Datos:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white))
 
 **Herramientas:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-*(Nota: Puedes encontrar más insignias como estas en [Simple Icons](https://simpleicons.org/) y crearlas con [Shields.io](https://shields.io/))*
+<!--*(Nota: Puedes encontrar más insignias como estas en [Simple Icons](https://simpleicons.org/) y crearlas con [Shields.io](https://shields.io/))*-->
 
 ---
 
@@ -65,9 +62,9 @@ Aquí tienes un resumen de mi "stack" tecnológico:
 
 | Proyecto | Descripción | Enlace |
 | :--- | :--- | :--- |
-| **[Nombre Proyecto 1]** | Una breve descripción de lo que hace tu proyecto, tecnologías usadas y el problema que resuelve. | [Ver Repositorio](https://github.com/[TU_USUARIO]/[REPO_1]) |
-| **[Nombre Proyecto 2]** | Aplicación web para la gestión de tareas usando React y Node.js. | [Ver Repositorio](https://github.com/[TU_USUARIO]/[REPO_2]) |
-| **[Nombre Proyecto 3]** | Script en Python para automatizar el raspado de datos web. | [Ver Repositorio](https://github.com/[TU_USUARIO]/[REPO_3]) |
+| **[EnerGym]** | Planificador de rutinas de entrenamiento de fuerza y gimnasio y planificación de alimentación. App cliente Android. | [Ver Repositorio](https://github.com/dieAng/EnerGym) |
+| **[EnerGymAPI]** | Planificador de rutinas de entrenamiento de fuerza y gimnasio y planificación de alimentación. API ASP.NET. | [Ver Repositorio](https://github.com/dieAng/EnerGym) |
+| **[Certificados]** | Repositorio personal donde almaceno y organizo mis certificados digitales obtenidos en cursos, talleres y programas de formación. | [Ver Repositorio](https://github.com/dieAng/Certificados) |
 
 ---
 
